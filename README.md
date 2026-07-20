@@ -1,5 +1,5 @@
 # kanaloa-api
-Kanaloa is an adaptable, web-based application designed to accelerate global 
+Kanaloa is an adaptable web-based application designed to accelerate global 
 oceanic restoration. Blending data science with marine engineering, 
 Kanaloa serves as a centralized platform for Marine Biologists, Research 
 Scientists, Marine Robotic Engineers, and Environmental Students working to 
